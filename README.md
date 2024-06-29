@@ -1,6 +1,6 @@
 # ChatBot
 
-## How to rum ?
+## How to run?
 
 
 1. Create a virtual environment
@@ -14,8 +14,7 @@ conda create -n ineuronChatBot python=3.10 -y
 
 ```bash
 conda activate -n ineuronChatBot 
-
-
+```
 
 3. Install Packages
 
