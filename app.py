@@ -1,12 +1,10 @@
 import chainlit as cl
+from src.llm import ask_order, messages
 
 @cl.on_message
 async def main(message: cl.Message):
-    # if message.content == "hello":
-    #     await message.reply("Hello!")
-    # elif message.content == "bye":
-    #     await message.reply("Bye!")
-        
-    await cl.Message(
-        content = f"Received : {message.content}",
-    ).send()
+    messages.append({"role": "user", "content": message.content})
+    response = ask_order(messages)
+    messages.append({"role": "assistant", "content": response})
+    # Send a response back to the user
+    await cl.Message(content=response,).send()
