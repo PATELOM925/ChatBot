@@ -1,4 +1,4 @@
-# ChatBot
+# FOOD ChatBot by OM
 
 ## How to run?
 
