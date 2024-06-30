@@ -4,7 +4,7 @@ setup(
     name = "Food Chatbot",
     version= "0.0.0",
     author= "OM M Patel",
-    author_email= "Ompatel@chatbot.ai",
+    author_email= "IAMPATELOM@GMAIL.COM", 
     packages= find_packages(),
     install_requires=[]
 )
