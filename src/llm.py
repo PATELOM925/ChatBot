@@ -10,7 +10,7 @@ client = OpenAI(api_key=OPENAI_API_KEY)
 
 messages = [
     {"role":"system","content":system_instruction}
-]
+] 
 
 def ask_order(messages, model="gpt-3.5-turbo", temperature = 0):
 
