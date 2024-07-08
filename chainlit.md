@@ -48,8 +48,8 @@ Try our delicious food and let me know your order.
 - **Jeera Rice** ---------- $4.99
 
 **Soups**
-- **Tomato Shorba** ---------- $5.99
-- **Mulligatawny Soup** ---------- $6.99
+- **Tomato soup** ---------- $5.99
+- **Manchow Soup** ---------- $6.99
 
 **Drinks**
 - **Mango Lassi** ---------- $4.99
