@@ -7,7 +7,7 @@ Try our delicious food and let me know your order.
 
 ## Canadian Dishes
 **Starters**
-- **Vegetarian Poutine** ---------- $9.99
+- **Vegetarian Poutine** ---------- $11.99
 
 **Main Dishes**
 - **Maple Glazed Tofu** ---------- $14.99
@@ -33,9 +33,12 @@ Try our delicious food and let me know your order.
 **Starters**
 - **Vegetable Samosas (2 pieces)** ---------- $4.50
 - **Paneer Tikka** ---------- $9.99
+- **Dhokla** ---------- 7.99
+- **Khaman(Spicy/Nylon/Normal)** ---------- $7.99
 
 **Main Dishes**
 - **Vegetable Korma** ---------- $12.99
+- **Gujarati Dal Bhat** ---------- $9.99
 - **Baingan Bharta** ---------- $11.99
 - **Paneer Butter Masala** ---------- $13.99
 - **Dal Tadka** ---------- $10.99
