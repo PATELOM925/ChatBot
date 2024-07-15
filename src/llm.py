@@ -1,7 +1,7 @@
 from openai import OpenAI
 from src.prompt import system_instruction
 from dotenv import load_dotenv
-import os
+import os 
 
 load_dotenv() 
 OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
